@@ -44,3 +44,5 @@ The dataset is small and comes from a single source. The models are intended for
 
 ## Author
 Anantika Sisodiya
+Avika Manglick 
+Ishita Singh
